@@ -1,4 +1,4 @@
-This is a Console Based project I made on Restaurant Management System using Python:
+This is a Small Console Based project I made on Restaurant Management System using Python:
 
 Features:
 
@@ -7,3 +7,7 @@ Features:
 (2) Room Info
 
 (3) Restaurant
+
+(4) Paymet
+
+(5) Record
