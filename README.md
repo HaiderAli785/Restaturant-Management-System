@@ -2,15 +2,17 @@ This is a Small Console Based project I made on Restaurant Management System usi
 
 Features:
 
-(1) Booking
+(1) Home
 
-(2) Room Info
+(2) Booking
 
-(3) Restaurant
+(3) Room Info
 
-(4) Paymet
+(4) Restaurant
 
-(5) Record
+(5) Paymet
+
+(6) Record
 
 
 This is the project:
